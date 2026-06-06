@@ -1,3 +1,8 @@
+## I'm Matthew B.Eng
+
+Aerospace Engineering, Focusing in Control Engineering <br>
+Underwater Robotics enthusiast <br>
+Afiliate witth Institut Teknologi Bandung <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewt271) 
