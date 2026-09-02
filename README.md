@@ -1,6 +1,6 @@
-## I'm Matthew B.Eng
+## I'm Matthew M.Eng
 
-Aerospace Engineering, Focusing in Control Engineering <br>
+Control Engineering, Focusing in Control, Robotics and Autonomous System <br>
 Underwater Robotics enthusiast <br>
 Afiliate witth Institut Teknologi Bandung <br>
 
